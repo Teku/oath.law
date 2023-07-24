@@ -1,0 +1,702 @@
+{
+  "@context": "http://www.schema.org",
+  "@graph": [
+    {
+      "@type": "LegalService",
+      "name": "Oath",
+      "url": "https://oath.law",
+      "logo": "https://uploads-ssl.webflow.com/5e20a627ef29bc12defb9812/5e20a627ef29bc5a71fb9886_Webclip.png",
+      "description": "Learn how to create a simple, organized estate plan to protect you, your assets, and your loved ones.",
+      "alternateName": [
+        "Oath Law"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1214 East 33rd Street",
+        "addressLocality": "Tulsa",
+        "addressRegion": "OK",
+        "postalCode": "74105"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": [
+          "Bentonville, AR",
+          "Fayetteville, AR",
+          "Little Rock, AR",
+          "Chandler, AZ",
+          "San Diego, CA",
+          "Laguna Hills, CA",
+          "Walnut Creek, CA",
+          "Denver, CO",
+          "Broomfield, CO",
+          "Fort Myers, FL",
+          "Tampa, FL",
+          "Boca Raton, FL",
+          "Des Moines, IA",
+          "Lexington, KY",
+          "Portland, ME",
+          "Columbus, OH",
+          "Oklahoma City, OK",
+          "Tulsa, OK",
+          "Philadelphia, PA",
+          "Nashville, TN",
+          "Memphis, TN",
+          "Fort Worth, TX",
+          "Austin, TX",
+          "Dallas, TX",
+          "Round Rock, TX",
+          "Plano, TX",
+          "Salt Lake City, UT"
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Legal Aid Services",
+      "alternateName": "Legal Aid",
+      "description": "Learn how to create a simple, organized estate plan to protect you, your assets, and your loved ones from life's unexpected events. Without the inflated fees!",
+      "serviceUrl": "https://www.oath.law/consultation",
+      "servicePhone": "+1 (888)-557-5715",
+      "audience": {
+        "@type": "Audience",
+        "name": [
+          "Seniors"
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Bentonville, AR",
+      "serviceUrl": "https://www.oath.law/offices/bentonville",
+      "servicePhone": "+1 (479)-616-1544",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": [
+          "Bentonville, AR"
+        ]
+      },
+      "audience": {
+        "@type": "Audience",
+        "name": [
+          "All Public"
+        ]
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1202 NE McClain Road",
+              "addressLocality": "Bentonville",
+              "addressRegion": "AR",
+              "postalCode": "72712"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Fayetteville, AR",
+      "serviceUrl": "https://www.oath.law/offices/fayetteville",
+      "servicePhone": "+1 (479)-616-1544",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "320 North Rollston Avenue Suite 103",
+              "addressLocality": "Fayetteville",
+              "addressRegion": "AR",
+              "postalCode": "72701"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Little Rock, AR",
+      "serviceUrl": "https://www.oath.law/offices/little-rock",
+      "servicePhone": "+1 (501)-214-8280",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2725 Cantrell Road Suite 107",
+              "addressLocality": "Little Rock",
+              "addressRegion": "AR",
+              "postalCode": "72202"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Chandler, AZ",
+      "serviceUrl": "https://www.oath.law/offices/chandler",
+      "servicePhone": "+1 (480)-561-1148",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "3100 West Ray Road, STE 201",
+              "addressLocality": "Chandler",
+              "addressRegion": "AZ",
+              "postalCode": "85226"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "San Diego, CA",
+      "serviceUrl": "https://www.oath.law/offices/san-diego",
+      "servicePhone": "+1 (619)-784-8987",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9655 Granite Ridge Drive, Suite 200",
+              "addressLocality": "San Diego",
+              "addressRegion": "CA",
+              "postalCode": "92123"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Laguna Hills, CA",
+      "serviceUrl": "https://www.oath.law/offices/orange-county",
+      "servicePhone": "+1 (619)-784-8987",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "23046 Avenida De La Carlota, Suite 600",
+              "addressLocality": "Laguna Hills",
+              "addressRegion": "CA",
+              "postalCode": "92653"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Walnut Creek, CA",
+      "serviceUrl": "https://www.oath.law/offices/walnut-creek",
+      "servicePhone": "+1 (925)-433-8718",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1255 Treat Blvd, Suite 300",
+              "addressLocality": "Walnut Creek",
+              "addressRegion": "CA",
+              "postalCode": "94597"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Denver, CO",
+      "serviceUrl": "https://www.oath.law/offices/denver",
+      "servicePhone": "+1 (720)-736-7516",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "7900 East Union Avenue, Suite 1100",
+              "addressLocality": "Denver",
+              "addressRegion": "CO",
+              "postalCode": "80237"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Broomfield, CO",
+      "serviceUrl": "https://www.oath.law/offices/broomfield",
+      "servicePhone": "+1 (303)-567-8554",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "390 Interlocken Crescent, Suite 350",
+              "addressLocality": "Broomfield",
+              "addressRegion": "CO",
+              "postalCode": "80021"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Fort Myers, FL",
+      "serviceUrl": "https://www.oath.law/offices/fort-myers",
+      "servicePhone": "+1 (293)-236-9932",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9160 Forum Corporate Parkway, Suite 341",
+              "addressLocality": "Fort Myers",
+              "addressRegion": "FL",
+              "postalCode": "33905"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Tampa, FL",
+      "serviceUrl": "https://www.oath.law/offices/tampa",
+      "servicePhone": "+1 (813)-939-7730",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4830 West Kennedy Blvd, STE 627",
+              "addressLocality": "Tampa",
+              "addressRegion": "FL",
+              "postalCode": "33609"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Boca Raton, FL",
+      "serviceUrl": "https://www.oath.law/offices/boca-raton",
+      "servicePhone": "+1 (561)-872-3373",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2255 Glades Road, Suite 324A",
+              "addressLocality": "Boca Raton",
+              "addressRegion": "FL",
+              "postalCode": "33431"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Des Moines, IA",
+      "serviceUrl": "https://www.oath.law/offices/des-moines",
+      "servicePhone": "+1 (515)-421-8799",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "5550 Wild Rose Lane, Suite 400",
+              "addressLocality": "Des Moines",
+              "addressRegion": "IA",
+              "postalCode": "502799"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Lexington, KY",
+      "serviceUrl": "https://www.oath.law/offices/lexington",
+      "servicePhone": "+1 (859)-788-3577",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "333 Alexandria Drive, STE 131",
+              "addressLocality": "Lexington",
+              "addressRegion": "KY",
+              "postalCode": "40504"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Portland, ME",
+      "serviceUrl": "https://www.oath.law/offices/portland",
+      "servicePhone": "+1 (207)-544-5702",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "254 Commercial St, Suite 245",
+              "addressLocality": "Portland",
+              "addressRegion": "ME",
+              "postalCode": "04101"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Columbus, OH",
+      "serviceUrl": "https://www.oath.law/offices/columbus",
+      "servicePhone": "+1 (380)-900-7858",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "100 E. Campus View Boulevard, Suite 250",
+              "addressLocality": "Columbus",
+              "addressRegion": "OH",
+              "postalCode": "43235"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Oklahoma City, OK",
+      "serviceUrl": "https://www.oath.law/offices/oklahoma-city",
+      "servicePhone": "+1 (405)-296-3900",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "435 North Walker Avenue, Suite 101",
+              "addressLocality": "Oklahoma City",
+              "addressRegion": "OK",
+              "postalCode": "73102"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Tulsa, OK",
+      "serviceUrl": "https://www.oath.law/offices/tulsa",
+      "servicePhone": "+1 (918)-200-9094",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1214 East 33rd Street",
+              "addressLocality": "Tulsa",
+              "addressRegion": "OK",
+              "postalCode": "74105"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Philadelphia, PA",
+      "serviceUrl": "https://www.oath.law/offices/philadelphia",
+      "servicePhone": "+1 (267)-780-7152",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "500 W. Office Center Drive, Suite 400",
+              "addressLocality": "Fort Washington",
+              "addressRegion": "PA",
+              "postalCode": "19034"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Nashville, TN",
+      "serviceUrl": "https://www.oath.law/offices/nashville",
+      "servicePhone": "+1 (629)-777-4660",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9005 Overlook Blvd",
+              "addressLocality": "Brentwood",
+              "addressRegion": "TN",
+              "postalCode": "37027"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Memphis, TN",
+      "serviceUrl": "https://www.oath.law/offices/memphis",
+      "servicePhone": "+1 (901)-701-6424",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1661 International Drive, Suite 400",
+              "addressLocality": "Memphis",
+              "addressRegion": "TN",
+              "postalCode": "38120"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Fort Worth, TX",
+      "serviceUrl": "https://www.oath.law/offices/fort-worth",
+      "servicePhone": "+1 (682)-730-3635",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1751 River Run, Suite 200",
+              "addressLocality": "Fort Worth",
+              "addressRegion": "TX",
+              "postalCode": "76107"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Austin, TX",
+      "serviceUrl": "https://www.oath.law/offices/austin",
+      "servicePhone": "+1 (737)-270-7939",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "13785 Research Blvd, Suite 125",
+              "addressLocality": "Austin",
+              "addressRegion": "TX",
+              "postalCode": "78750"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Dallas, TX",
+      "serviceUrl": "https://www.oath.law/offices/dallas",
+      "servicePhone": "+1 (469)-405-1988",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "15455 Dallas Pkwy Suite 600",
+              "addressLocality": "Addison",
+              "addressRegion": "TX",
+              "postalCode": "75001"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Round Rock, TX",
+      "serviceUrl": "https://www.oath.law/offices/round-rock",
+      "servicePhone": "+1 (737)-242-7171",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1 Chisholm Trail Rd Suite 450",
+              "addressLocality": "Round Rock",
+              "addressRegion": "TX",
+              "postalCode": "78681"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Plano, TX",
+      "serviceUrl": "https://www.oath.law/offices/plano",
+      "servicePhone": "+1 (972)-688-6080",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "6860 North Dallas Parkway, Suite 200",
+              "addressLocality": "Plano",
+              "addressRegion": "TX",
+              "postalCode": "75024"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Legal Aid",
+      "name": "Salt Lake City, UT",
+      "serviceUrl": "https://www.oath.law/offices/salt-lake-city",
+      "servicePhone": "+1 (385)-270-9459",
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceLocation": [
+          {
+            "@type": "Place",
+            "name": "",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "6975 Union Park Ave, Suite 600",
+              "addressLocality": "Cottonwood Heights",
+              "addressRegion": "UT",
+              "postalCode": "84047"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
